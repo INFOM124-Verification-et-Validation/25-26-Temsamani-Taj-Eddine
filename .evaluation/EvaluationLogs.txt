@@ -1,0 +1,39 @@
+2025-09-30 09:14:23.862 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 09:15:03.424 - Notification - You are making progress on an achievement! You have already reached 25,00% of the next level of the 'Double check' achievement!
+2025-09-30 09:17:36.613 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 09:28:09.079 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 09:28:56.11 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 09:32:10.901 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 09:39:20.311 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 09:39:23.54 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 09:45:46.867 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 09:46:09.545 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 09:47:10.892 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 09:48:08.245 - Notification - You are making progress on an achievement! You have already reached 75,00% of the next level of the 'Assert and Tested' achievement!
+2025-09-30 09:48:08.751 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 09:50:11.558 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 09:53:28.872 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 09:57:13.482 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:00:06.486 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:00:14.397 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:00:46.552 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:01:22.126 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:01:35.516 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:01:39.541 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:01:50.686 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:02:08.635 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:02:11.894 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:02:45.795 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:03:40.789 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:05:13.003 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:07:49.985 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:11:39.938 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:11:50.956 - Notification - Congratulations! You unlocked level 4 of the 'The Tester' achievement!
+2025-09-30 10:25:01.333 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-09-30 10:25:01.334 - Debug - Web socket state : Connecting
+2025-09-30 10:25:01.524 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-09-30 10:25:01.529 - Debug - Web socket state : Error
+2025-10-14 08:49:06.995 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-10-14 08:49:06.998 - Debug - Web socket state : Connecting
+2025-10-14 08:49:07.232 - Error - Websocket failure : Hôte inconnu (gamification.thibber.be)
+2025-10-14 08:49:07.233 - Debug - Web socket state : Error
